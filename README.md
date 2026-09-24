@@ -5,5 +5,5 @@ Automated daily current affairs PDFs compiled by Yogi Sir.
 ## 📥 Latest Download
 - **Direct PDF Link**: [latest.pdf](https://raw.githubusercontent.com/prep-vault-ca/daily-ca/main/latest.pdf)
 - **Link File**: [link.txt](https://raw.githubusercontent.com/prep-vault-ca/daily-ca/main/link.txt)
-- **Updated**: 2026-09-24 10:28 UTC
-- **Original File**: dca 22nd SEPT by YOGI SIR_compressed.pdf
+- **Updated**: 2026-09-24 11:04 UTC
+- **Original File**: 24th Sep 2026.pdf
