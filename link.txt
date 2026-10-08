@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/prep-vault-ca/daily-ca/main/latest.pdf
 
-File: dca 7th OCTOBER BY YOGI SIR_compressed.pdf
-Updated: 2026-10-07 12:36 UTC
-SHA256: e606a1f422f2d425a585f6ff073898474d17e3c562bcbf8f0973edd717781280
+File: dca 8th OCTOBER BY YOGI SIR_compressed.pdf
+Updated: 2026-10-08 12:46 UTC
+SHA256: e8c5405b6fcc4d1089352ccf29a272060711e2951847474cc0de777c91a6f43c
